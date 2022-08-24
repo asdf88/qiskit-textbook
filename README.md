@@ -8,10 +8,10 @@ git init -b main
 git status
 
 # Stage changes for commit
-git add
+git add .
 
 # Commit changes with message
-git commit -m 'initial commit'
+git commit -m "initial commit"
 
 # Create link to a GitHub repo 'origin',
 git remote add origin <repo URL>
