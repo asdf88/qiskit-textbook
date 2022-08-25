@@ -1,3 +1,8 @@
+# Learning Quantum Computation using Qiskit
+
+The directory [textbook_programs](./textbook_programs/) contains code discussed in the Qiskit textbook. 
+
+
 ## Github Setup
 
 ```bash
